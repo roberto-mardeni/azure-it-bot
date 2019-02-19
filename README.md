@@ -1,7 +1,7 @@
 # my-it-bot
 Demonstrate how to build an IT Bot with the Azure Bot Framework
 
-This bot has been created using [Bot Framework][1], it shows how to create a simple bot that accepts input from the user and echoes it back.
+This bot has been created using the [Bot Framework Custom Dialogs][1] sample, it shows how to create a bot that handles custom dialogs.
 
 ## Prerequisites
 - [Node.js][4] version 8.5 or higher
@@ -72,7 +72,7 @@ To learn more about deploying a bot to Azure, see [Deploy your bot to Azure][40]
 - [Restify][30]
 - [dotenv][31]
 
-[1]: https://dev.botframework.com
+[1]: https://github.com/Microsoft/BotBuilder-Samples/tree/master/samples/javascript_nodejs/19.custom-dialogs
 [2]: https://www.typescriptlang.org
 [3]: https://www.typescriptlang.org/#download-links
 [4]: https://nodejs.org
